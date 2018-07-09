@@ -1,0 +1,28 @@
+image: "ruby:2.5"
+services:
+  - postgres:latest
+  - redis:latest
+
+variables:
+  POSTGRES_DB: application_test
+  POSTGRES_USER: runner
+  POSTGRES_PASSWORD: ""
+
+cache:
+  paths:
+    - vendor/ruby # cache gems in between builds
+
+
+before_script:
+  - apt-get update -qq && apt-get install -y -qq postgresql postgresql-contrib libpq-dev cmake
+  - ruby -v
+  - which ruby
+  - gem install bundler --no-ri --no-rdoc
+  - bundle install -j $(nproc) --path vendor
+  - cp config/application.yml.gitlab config/application.yml
+  - cp config/database.yml.gitlab config/database.yml
+  - cp config/master.key.gitlab config/master.key
+  - RAILS_ENV=test bundle exec rake db:create db:schema:load
+rspec:
+  script:
+    - RAILS_ENV=test bundle exec rspec
