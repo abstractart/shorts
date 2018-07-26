@@ -1,5 +1,6 @@
 # Dump and restore scripts
-## First variant
+## Local Machine
+### First variant
 ```
 # Dump DB
 pg_dump -Fc database > database.dump
@@ -10,7 +11,7 @@ createdb database_from_dump
 pg_restore --no-owner --role=your_role -d database_from_dump -n public database.dump
 ```
 
-## Second, more simple
+### Second, more simple
 ```
 # Dump DB
 pg_dump database -O -x > dump.sql
@@ -20,4 +21,9 @@ createdb database_from_dump
 
 # Restore with current user as owner
 psql database_from_dump < dump.sql
+```
+## Backup remote database
+
+```
+pg_dump --dbname=postgresql://[USER]:[PASSWORD]@[HOST]:[PORT]/[DATABASE_NAME] --file=dDATABASE_NAME_DUMP.sql
 ```
