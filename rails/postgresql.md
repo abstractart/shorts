@@ -3,3 +3,6 @@
 
 ### Инструменты, технологии
 - [PGHero Rails](https://github.com/ankane/pghero/blob/master/guides/Rails.md)
+
+### Статьи
+- [Karol Galanciak, Indexes on Rails: How to Make the Most of Your Postgres Database](https://karolgalanciak.com/blog/2018/08/19/indexes-on-rails-how-to-make-the-most-of-your-postgres-database/)
