@@ -34,3 +34,6 @@ bin/rspec
 ```
 
 NOTE: [simplecov](https://github.com/colszowka/simplecov) works not correct with this method
+
+### Parallel tests
+[Gem](https://github.com/grosser/parallel_tests)
