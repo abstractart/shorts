@@ -1,1 +1,2 @@
 - [E-Maxx catalog](https://e-maxx.ru/algo/)
+- [Examples in Java (Github)](https://github.com/phishman3579/java-algorithms-implementation)
