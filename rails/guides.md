@@ -1,0 +1,3 @@
+- [Describing the development process used by the Infinum Rails Team.](https://github.com/infinum/rails-handbook)
+- [A guide for programming in style.](https://github.com/thoughtbot/guides)
+- [Best practices for running Rails in production](https://github.com/ankane/production_rails)
