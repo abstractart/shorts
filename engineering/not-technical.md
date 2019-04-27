@@ -6,3 +6,4 @@
 - [Как не попасть в ловушку идеальности](https://www.youtube.com/watch?v=MoBMgyqGLTs)
 - [Почему профессиональные программисты чаще грустят](https://www.youtube.com/watch?v=Oj5yCG__sWk)
 - [Что лучше глубокие или поверхностные знания](https://www.youtube.com/watch?v=4PDeWha43hQ)
+- [Инженерное мышление в программировании](https://www.youtube.com/watch?v=j6_rQZmYw_c)
