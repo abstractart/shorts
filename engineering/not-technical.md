@@ -8,3 +8,5 @@
 - [Что лучше глубокие или поверхностные знания](https://www.youtube.com/watch?v=4PDeWha43hQ)
 - [Инженерное мышление в программировании](https://www.youtube.com/watch?v=j6_rQZmYw_c)
 - [Плюсы и минусы работы в крупных и мелких компаниях](https://www.youtube.com/watch?v=Xc2O7mwVqCM)
+- [Многостаночность или изучение одного направления](https://www.youtube.com/watch?v=Bh1bwVrQGdM)
+- [Вопрос-Ответ: как бороться с эмоциональным выгоранием](https://www.youtube.com/watch?v=8s13Rr4wHs8)
