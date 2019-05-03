@@ -10,7 +10,7 @@
 - [Плюсы и минусы работы в крупных и мелких компаниях](https://www.youtube.com/watch?v=Xc2O7mwVqCM)
 - [Многостаночность или изучение одного направления](https://www.youtube.com/watch?v=Bh1bwVrQGdM)
 - [Вопрос-Ответ: как бороться с эмоциональным выгоранием](https://www.youtube.com/watch?v=8s13Rr4wHs8)
-- [Недостатки работы программистом](https://www.youtube.com/watch?v=1iJCowlrCeM)
+- [**Недостатки работы программистом**](https://www.youtube.com/watch?v=1iJCowlrCeM)
 ## Доклады
 - [Илья Якямсев "Эффективность не работает", конференция FrontDays 2018](https://www.youtube.com/watch?v=K6oZuB8_dU8)
 - [36](https://www.youtube.com/watch?v=nIFClfBXuIQ)
