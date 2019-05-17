@@ -4,7 +4,7 @@
 
 1) Append this line to ```pg_hba.conf```
 ```conf
-host     db_name      username     0.0.0.0/0               md5
+host     <db_name>      <username>     0.0.0.0/0               md5
 ```
 
 2) Go to ```postgresql.conf```, uncomment and change ```listen_addresses```
