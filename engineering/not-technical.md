@@ -1,4 +1,5 @@
 # Гибкие навыки и прочие нетехнические аспекты разработки ПО
+## Habr
 - [Проблемные личности среди разработчиков](https://habr.com/post/431534)
 - [Зачем инженеру soft skills](https://habr.com/company/epam_systems/blog/418621/)
 - [«Ты крутой разраб, иди и попроси больше денег» — расскажем менеджерам, как устроен мир](https://habr.com/ru/post/432052/)
@@ -13,7 +14,8 @@
 - [Многостаночность или изучение одного направления](https://www.youtube.com/watch?v=Bh1bwVrQGdM)
 - [Вопрос-Ответ: как бороться с эмоциональным выгоранием](https://www.youtube.com/watch?v=8s13Rr4wHs8)
 - [**Недостатки работы программистом**](https://www.youtube.com/watch?v=1iJCowlrCeM)
-
+## SHIFU
+- [Фигачить, баланс в жизни или не париться](https://www.youtube.com/watch?v=ilobkV-WjaQ)
 ## Разработка + менеджмент
 - [Жизнь после кода. Из программистов в бизнес-консультанты, менеджеры, продавцы](https://dataart.ru/news/zhizn-posle-koda-iz-programmistov-v-biznes-konsul-tanty-menedzhery-prodavtsy/)
 ## Доклады
@@ -23,3 +25,4 @@
 ## Книги
 - [Live Work Work Work Die: A Journey into the Savage Heart of Silicon Valley
 by Corey Pein](https://www.goodreads.com/book/show/35684687-live-work-work-work-die)
+
