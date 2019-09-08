@@ -21,7 +21,7 @@
 ## Доклады
 - [Илья Якямсев "Эффективность не работает", конференция FrontDays 2018](https://www.youtube.com/watch?v=K6oZuB8_dU8)
 - [36](https://www.youtube.com/watch?v=nIFClfBXuIQ)
-
+- [Инструкция по игре жизнь. Какие навыки прокачивать](https://www.youtube.com/watch?v=cqvArN_aMHY)
 ## Книги
 - [Live Work Work Work Die: A Journey into the Savage Heart of Silicon Valley
 by Corey Pein](https://www.goodreads.com/book/show/35684687-live-work-work-work-die)
