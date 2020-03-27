@@ -1,4 +1,6 @@
 # Гибкие навыки и прочие нетехнические аспекты разработки ПО
+## Блоги
+- [Боль тимлида](https://datanerd.ru/tags/bol-timlida/)
 ## Habr
 - [Проблемные личности среди разработчиков](https://habr.com/post/431534)
 - [Зачем инженеру soft skills](https://habr.com/company/epam_systems/blog/418621/)
