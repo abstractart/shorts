@@ -8,7 +8,7 @@
 - [Теперь хороших разрабов меряют по просмотрам и подписчикам — и это плохо](https://habr.com/ru/post/451812/)
 - [Не работайте в плохих проектах](https://habr.com/ru/post/463411/)
 - [**Я пережила выгорание, или Как остановить хомячка в колесе**](https://habr.com/ru/post/468321/)
-- [Считаешь себя синьором? Да кого ты обманываешь](https://habr.com/ru/post/497602/)https://habr.com/ru/post/497602/
+- [Считаешь себя синьором? Да кого ты обманываешь](https://habr.com/ru/post/497602/)
 ## Medium
 - [The software engineer’s guide to asserting dominance in the workplace](https://medium.com/feature-creep/the-software-engineer-s-guide-to-asserting-office-dominance-ddea7b598df7)
 ## Software Engineer - Soer
