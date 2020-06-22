@@ -9,6 +9,7 @@
 - [Не работайте в плохих проектах](https://habr.com/ru/post/463411/)
 - [**Я пережила выгорание, или Как остановить хомячка в колесе**](https://habr.com/ru/post/468321/)
 - [Считаешь себя синьором? Да кого ты обманываешь](https://habr.com/ru/post/497602/)
+- **[Как правильно задавать вопросы, если ты начинающий айтишник](https://habr.com/ru/post/460221/)**
 ## Medium
 - [The software engineer’s guide to asserting dominance in the workplace](https://medium.com/feature-creep/the-software-engineer-s-guide-to-asserting-office-dominance-ddea7b598df7)
 ## Software Engineer - Soer
