@@ -12,7 +12,10 @@
 - **[Как правильно задавать вопросы, если ты начинающий айтишник](https://habr.com/ru/post/460221/)**
 ## Medium
 - [The software engineer’s guide to asserting dominance in the workplace](https://medium.com/feature-creep/the-software-engineer-s-guide-to-asserting-office-dominance-ddea7b598df7)
-## Software Engineer - Soer
+
+## Youtube
+### [Healthy Software Developer](https://www.youtube.com/c/JaymeEdwardsMedia/videos)
+### Software Engineer - Soer
 - [Как не попасть в ловушку идеальности](https://www.youtube.com/watch?v=MoBMgyqGLTs)
 - [Почему профессиональные программисты чаще грустят](https://www.youtube.com/watch?v=Oj5yCG__sWk)
 - [Что лучше глубокие или поверхностные знания](https://www.youtube.com/watch?v=4PDeWha43hQ)
@@ -21,7 +24,7 @@
 - [Многостаночность или изучение одного направления](https://www.youtube.com/watch?v=Bh1bwVrQGdM)
 - [Вопрос-Ответ: как бороться с эмоциональным выгоранием](https://www.youtube.com/watch?v=8s13Rr4wHs8)
 - [**Недостатки работы программистом**](https://www.youtube.com/watch?v=1iJCowlrCeM)
-## SHIFU
+### SHIFU
 - [Фигачить, баланс в жизни или не париться](https://www.youtube.com/watch?v=ilobkV-WjaQ)
 ## Разработка + менеджмент
 - [Жизнь после кода. Из программистов в бизнес-консультанты, менеджеры, продавцы](https://dataart.ru/news/zhizn-posle-koda-iz-programmistov-v-biznes-konsul-tanty-menedzhery-prodavtsy/)
