@@ -5,3 +5,4 @@
 - Grokking System Design Interview
 - https://github.com/binhnguyennus/awesome-scalability
 - https://github.com/theanalyst/awesome-distributed-systems
+- https://github.com/resumejob/system-design-algorithms
