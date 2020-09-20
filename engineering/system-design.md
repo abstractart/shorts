@@ -9,3 +9,5 @@
 - https://gist.github.com/vasanthk/485d1c25737e8e72759f
 - https://www.youtube.com/c/SystemDesignInterview
 - https://t.me/systemdesignbymiu
+- **[Web Scalability for Startup Engineers
+by Artur Ejsmont](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)**
