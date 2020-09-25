@@ -15,6 +15,7 @@
 
 ## Youtube
 ### [Healthy Software Developer](https://www.youtube.com/c/JaymeEdwardsMedia/videos)
+### [Dream Catch Me](https://www.youtube.com/channel/UCRA6oTtjvFcg_eNHWru6Ngw)
 ### Software Engineer - Soer
 - [Как не попасть в ловушку идеальности](https://www.youtube.com/watch?v=MoBMgyqGLTs)
 - [Почему профессиональные программисты чаще грустят](https://www.youtube.com/watch?v=Oj5yCG__sWk)
