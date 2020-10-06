@@ -12,3 +12,6 @@
 - [Тимлидство — роль, которая может стать ловушкой для разработчика, а может дать огромные возможности для создания ПО](https://habr.com/ru/company/skyeng/blog/516616/)
 ## Github
 - [TeamLead Roadmap](https://github.com/tlbootcamp/tlroadmap)
+
+## One-to-one
+- [Нам нужно поговорить…](https://habr.com/ru/company/oleg-bunin/blog/500628/)
