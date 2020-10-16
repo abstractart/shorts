@@ -13,6 +13,8 @@ Github
 Courses
 - [Grokking System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 
+Articles
+- [Обработка распределенных транзакций в микросервисной архитектуре](https://habr.com/ru/company/piter/blog/522366/)
 
 Books
 - **[Web Scalability for Startup Engineers
