@@ -10,6 +10,7 @@
 - [Мотивация, делегирование и автоматизация: рецепт создания суперкоманды / Алексей Катаев (Skyeng)](https://www.youtube.com/watch?v=ojRZNSSr4I8)
 - [Кто такой техлид и почему он нужен команде](https://habr.com/ru/company/oleg-bunin/blog/490344/)
 - [Тимлидство — роль, которая может стать ловушкой для разработчика, а может дать огромные возможности для создания ПО](https://habr.com/ru/company/skyeng/blog/516616/)
+- **[Страхи тимлида](https://etolstoy.com/hustling-a-teamlead/)**
 ## Github
 - [TeamLead Roadmap](https://github.com/tlbootcamp/tlroadmap)
 
