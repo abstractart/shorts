@@ -9,6 +9,7 @@
 - [Computer Networks: A Systems Approach](https://book.systemsapproach.org/)
 ## Golang
 - [Go: Goroutine, OS Thread and CPU Management](https://medium.com/a-journey-with-go/go-goroutine-os-thread-and-cpu-management-2f5a5eaf518a)
+- [Can you detect how many threads a given number of goroutines will create?](http://stackoverflow.com/questions/1714136/can-you-detect-how-many-threads-a-given-number-of-goroutines-will-create)
 ## Ruby
 - [Ruby HTTPClient: How to use persistent connections?](https://stackoverflow.com/questions/15976775/ruby-httpclient-how-to-use-persistent-connections)
 - [Sending TCP keepalives in Ruby - makandra dev](https://makandracards.com/makandra/36345-sending-tcp-keepalives-in-ruby)
