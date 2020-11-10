@@ -20,7 +20,7 @@ Books
 - **[Web Scalability for Startup Engineers
 by Artur Ejsmont](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)**
 - [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/)
-
+- [Designing Data-Intensive Applications](https://dataintensive.net/)
 Other
 - [SystemDesignInterview Youtube channel](https://www.youtube.com/c/SystemDesignInterview)
 - https://t.me/systemdesignbymiu
