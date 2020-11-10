@@ -17,3 +17,7 @@
 ## Linux
 ### Books
 - [The Linux Programming Interface](https://man7.org/tlpi/)
+## Message brokers
+TODO
+## PUB/SUB
+TODO
