@@ -1,7 +1,10 @@
 # Highload, Scalability, Performance in Web Applications
 ## HTTP Layer
+### Articles
+- [Learning about the HTTP “Connection: keep-alive” header](https://blog.insightdatascience.com/learning-about-the-http-connection-keep-alive-header-7ebe0efa209d)
 - [Keep-Alive connection on inter-service HTTP requests](https://medium.com/@onufrienkos/keep-alive-connection-on-inter-service-http-requests-3f2de73ffa1)
 - [HTTP persistent connection](https://en.m.wikipedia.org/wiki/HTTP_persistent_connection)
+### Books
 - **[High Performance Browser Networking](https://hpbn.co/)**
 ## Golang
 - [Go: Goroutine, OS Thread and CPU Management](https://medium.com/a-journey-with-go/go-goroutine-os-thread-and-cpu-management-2f5a5eaf518a)
