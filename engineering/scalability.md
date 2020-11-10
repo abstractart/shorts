@@ -2,6 +2,7 @@
 ## HTTP Layer
 - [Keep-Alive connection on inter-service HTTP requests](https://medium.com/@onufrienkos/keep-alive-connection-on-inter-service-http-requests-3f2de73ffa1)
 - [HTTP persistent connection](https://en.m.wikipedia.org/wiki/HTTP_persistent_connection)
+- **[High Performance Browser Networking](https://hpbn.co/)**
 ## Golang
 - [Go: Goroutine, OS Thread and CPU Management](https://medium.com/a-journey-with-go/go-goroutine-os-thread-and-cpu-management-2f5a5eaf518a)
 ## Ruby
