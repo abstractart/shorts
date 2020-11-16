@@ -1,5 +1,9 @@
-# Articles
+# Books
+- [Seven Databases in Seven Weeks, Second Edition](https://pragprog.com/titles/pwrdata/seven-databases-in-seven-weeks-second-edition/)
 
+# Videos
+- [7 Database Paradigms](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
+# Articles
 [Масштабирование баз данных — партиционирование, репликация и шардинг](https://web-creator.ru/articles/partitioning_replication_sharding)
  ## CAP
  - [The CAP Theorem and MongoDB](https://www.annashipman.co.uk/jfdi/the-cap-theorem-and-mongodb.html)
