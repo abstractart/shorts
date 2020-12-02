@@ -21,4 +21,5 @@ by Artur Ejsmont](https://www.goodreads.com/book/show/23615147-web-scalability-f
 - [Designing Data-Intensive Applications](https://dataintensive.net/)
 ## Other
 - [SystemDesignInterview Youtube channel](https://www.youtube.com/c/SystemDesignInterview)
+- [Episode 06: Intro to Architecture and Systems Design Interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70&feature=youtu.be)
 - https://t.me/systemdesignbymiu
