@@ -12,7 +12,8 @@
 - **[Как правильно задавать вопросы, если ты начинающий айтишник](https://habr.com/ru/post/460221/)**
 ## Medium
 - [The software engineer’s guide to asserting dominance in the workplace](https://medium.com/feature-creep/the-software-engineer-s-guide-to-asserting-office-dominance-ddea7b598df7)
-
+## VC
+- [Ты можешь лучше: как избавиться от вины, что ты недостаточно хорош](https://vc.ru/life/132417-ty-mozhesh-luchshe-kak-izbavitsya-ot-viny-chto-ty-nedostatochno-horosh)
 ## Youtube
 ### [Healthy Software Developer](https://www.youtube.com/c/JaymeEdwardsMedia/videos)
 ### [Dream Catch Me](https://www.youtube.com/channel/UCRA6oTtjvFcg_eNHWru6Ngw)
