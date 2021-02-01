@@ -15,6 +15,7 @@
 - [Sending TCP keepalives in Ruby - makandra dev](https://makandracards.com/makandra/36345-sending-tcp-keepalives-in-ruby)
 ## C
 - [Parallel TCP/IP Socket Server With Multithreading and Multiprocessing in C](https://dzone.com/articles/parallel-tcpip-socket-server-with-multi-threading)
+- [https://www.adamtornhill.com/Patterns%20in%20C%205,%20REACTOR.pdf](https://www.adamtornhill.com/Patterns%20in%20C%205,%20REACTOR.pdf)
 ## Linux
 ### Books
 - [The Linux Programming Interface](https://man7.org/tlpi/)
