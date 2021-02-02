@@ -4,6 +4,10 @@
 - [Learning about the HTTP “Connection: keep-alive” header](https://blog.insightdatascience.com/learning-about-the-http-connection-keep-alive-header-7ebe0efa209d)
 - [Keep-Alive connection on inter-service HTTP requests](https://medium.com/@onufrienkos/keep-alive-connection-on-inter-service-http-requests-3f2de73ffa1)
 - [HTTP persistent connection](https://en.m.wikipedia.org/wiki/HTTP_persistent_connection)
+
+## IO
+- [What are the underlying differences among select, epoll, kqueue, and evport?](https://stackoverflow.com/questions/26420947/what-are-the-underlying-differences-among-select-epoll-kqueue-and-evport)
+- [select / poll / epoll: практическая разница](https://habr.com/ru/company/infopulse/blog/415259/)
 ### Books
 - **[High Performance Browser Networking](https://hpbn.co/)**
 - [Computer Networks: A Systems Approach](https://book.systemsapproach.org/)
