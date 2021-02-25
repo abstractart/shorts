@@ -10,7 +10,7 @@
 - https://gist.github.com/vasanthk/485d1c25737e8e72759f
 ## Courses
 - [Grokking System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
-
+- [Distributed Systems lecture series by Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 ## Articles
 - [Обработка распределенных транзакций в микросервисной архитектуре](https://habr.com/ru/company/piter/blog/522366/)
 
