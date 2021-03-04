@@ -13,6 +13,6 @@
 - **[Страхи тимлида](https://etolstoy.com/hustling-a-teamlead/)**
 ## Github
 - [TeamLead Roadmap](https://github.com/tlbootcamp/tlroadmap)
-
+- [A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups](https://github.com/kuchin/awesome-cto)
 ## One-to-one
 - [Нам нужно поговорить…](https://habr.com/ru/company/oleg-bunin/blog/500628/)
