@@ -10,4 +10,5 @@
 - [Full Speed Python](https://github.com/joaoventura/full-speed-python)
 
 # Wiki
+- [Documentation](https://docs.python.org/3/)
 - [PythonSpeed/PerformanceTips](https://wiki.python.org/moin/PythonSpeed/PerformanceTips)
