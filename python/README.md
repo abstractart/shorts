@@ -5,6 +5,7 @@
 - [Python best practices guidebook, written for humans](https://github.com/realpython/python-guide)
 
 # Books
+- [Awesome Python Books](https://github.com/Junnplus/awesome-python-books)
 - [High Performance Python](https://www.oreilly.com/library/view/high-performance-python/9781449361747/)
 - [Fluent Python](https://www.oreilly.com/library/view/fluent-python/9781491946237/)
 - [Full Speed Python](https://github.com/joaoventura/full-speed-python)
@@ -12,3 +13,6 @@
 # Wiki
 - [Documentation](https://docs.python.org/3/)
 - [PythonSpeed/PerformanceTips](https://wiki.python.org/moin/PythonSpeed/PerformanceTips)
+
+# Tutorials
+- [The Flask Mega-Tutorial Part I: Hello, World!](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
