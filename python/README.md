@@ -16,3 +16,6 @@
 
 # Tutorials
 - [The Flask Mega-Tutorial Part I: Hello, World!](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+
+# Python & IDE
+- [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
