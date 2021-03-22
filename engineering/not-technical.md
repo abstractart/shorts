@@ -2,25 +2,20 @@
 ## Блоги
 - [Боль тимлида](https://datanerd.ru/tags/bol-timlida/)
 ## Habr
-- [Проблемные личности среди разработчиков](https://habr.com/post/431534)
-- [Зачем инженеру soft skills](https://habr.com/company/epam_systems/blog/418621/)
-- [«Ты крутой разраб, иди и попроси больше денег» — расскажем менеджерам, как устроен мир](https://habr.com/ru/post/432052/)
-- [Теперь хороших разрабов меряют по просмотрам и подписчикам — и это плохо](https://habr.com/ru/post/451812/)
 - [Не работайте в плохих проектах](https://habr.com/ru/post/463411/)
-- [**Я пережила выгорание, или Как остановить хомячка в колесе**](https://habr.com/ru/post/468321/)
-- [Считаешь себя синьором? Да кого ты обманываешь](https://habr.com/ru/post/497602/)
 - **[Как правильно задавать вопросы, если ты начинающий айтишник](https://habr.com/ru/post/460221/)**
-## Medium
-- [The software engineer’s guide to asserting dominance in the workplace](https://medium.com/feature-creep/the-software-engineer-s-guide-to-asserting-office-dominance-ddea7b598df7)
 ## VC
 - [Ты можешь лучше: как избавиться от вины, что ты недостаточно хорош](https://vc.ru/life/132417-ty-mozhesh-luchshe-kak-izbavitsya-ot-viny-chto-ty-nedostatochno-horosh)
 ## Youtube
 ### [Healthy Software Developer](https://www.youtube.com/c/JaymeEdwardsMedia/videos)
 ### [Dream Catch Me](https://www.youtube.com/channel/UCRA6oTtjvFcg_eNHWru6Ngw)
 ### [Мы обречены](https://www.youtube.com/watch?v=kS49Rw5gxVg)
+
 ## Выгорание
-### [Программист Артем Зиннатуллин о своем эмоциональном выгорании и депрессии. Советы психолога](https://www.youtube.com/watch?v=m0H04STjBhQ)
-### [коллапс моей личности by Staff SWE from Lyft](https://www.youtube.com/watch?v=5pkrlZGFzF0)
+- [**Я пережила выгорание, или Как остановить хомячка в колесе**](https://habr.com/ru/post/468321/)
+- [Программист Артем Зиннатуллин о своем эмоциональном выгорании и депрессии. Советы психолога](https://www.youtube.com/watch?v=m0H04STjBhQ)
+- [коллапс моей личности by Staff SWE from Lyft](https://www.youtube.com/watch?v=5pkrlZGFzF0)
+
 ### Software Engineer - Soer
 - [Как не попасть в ловушку идеальности](https://www.youtube.com/watch?v=MoBMgyqGLTs)
 - [Почему профессиональные программисты чаще грустят](https://www.youtube.com/watch?v=Oj5yCG__sWk)
