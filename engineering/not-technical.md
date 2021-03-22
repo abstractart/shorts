@@ -18,6 +18,8 @@
 ### [Healthy Software Developer](https://www.youtube.com/c/JaymeEdwardsMedia/videos)
 ### [Dream Catch Me](https://www.youtube.com/channel/UCRA6oTtjvFcg_eNHWru6Ngw)
 ### [Мы обречены](https://www.youtube.com/watch?v=kS49Rw5gxVg)
+## Выгорание
+### [Программист Артем Зиннатуллин о своем эмоциональном выгорании и депрессии. Советы психолога](https://www.youtube.com/watch?v=m0H04STjBhQ)
 ### [коллапс моей личности by Staff SWE from Lyft](https://www.youtube.com/watch?v=5pkrlZGFzF0)
 ### Software Engineer - Soer
 - [Как не попасть в ловушку идеальности](https://www.youtube.com/watch?v=MoBMgyqGLTs)
