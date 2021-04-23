@@ -1,3 +1,4 @@
+# Computer Science resources
 - [E-Maxx catalog](https://e-maxx.ru/algo/)
 - [Examples in Java (Github)](https://github.com/phishman3579/java-algorithms-implementation)
 - [A complete computer science study plan to become a software engineer](https://github.com/jwasham/coding-interview-university)
