@@ -1,1 +1,0 @@
-- [Catalog](https://refactoring.guru/refactoring/catalog)
