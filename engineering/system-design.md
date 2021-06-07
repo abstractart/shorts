@@ -22,6 +22,7 @@ by Artur Ejsmont](https://www.goodreads.com/book/show/23615147-web-scalability-f
 - [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/)
 - [Designing Data-Intensive Applications](https://dataintensive.net/)
 - [System Design Interview – An Insider's Guide](https://www.amazon.com/System-Design-Interview-Insiders-Guide-ebook/dp/B08B3FWYBX)
+- **[Distributed Systems for practitioners](https://leanpub.com/distributed-systems-for-practitioners#:~:text=Learn%20the%20basic%20principles%20that,the%20space%20of%20distributed%20systems.)**
 ## Other
 - [System Design Interesting Reads (Leetcode)](https://docs.google.com/document/d/1iKk6vJbWtI02AllnIEZTrKWQb4dT2QthJdRt05vq6Hw/edit)
 - [SystemDesignInterview Youtube channel](https://www.youtube.com/c/SystemDesignInterview)
