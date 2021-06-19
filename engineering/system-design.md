@@ -9,6 +9,10 @@
 - https://github.com/theanalyst/awesome-distributed-systems
 - https://github.com/resumejob/system-design-algorithms
 - https://gist.github.com/vasanthk/485d1c25737e8e72759f
+## Youtube
+- [System design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+- [SystemDesignInterview Youtube channel](https://www.youtube.com/c/SystemDesignInterview)
+- [Episode 06: Intro to Architecture and Systems Design Interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70&feature=youtu.be)
 ## Courses
 - [Grokking System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 - [Distributed Systems lecture series by Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
@@ -25,6 +29,5 @@ by Artur Ejsmont](https://www.goodreads.com/book/show/23615147-web-scalability-f
 - **[Distributed Systems for practitioners](https://leanpub.com/distributed-systems-for-practitioners#:~:text=Learn%20the%20basic%20principles%20that,the%20space%20of%20distributed%20systems.)**
 ## Other
 - [System Design Interesting Reads (Leetcode)](https://docs.google.com/document/d/1iKk6vJbWtI02AllnIEZTrKWQb4dT2QthJdRt05vq6Hw/edit)
-- [SystemDesignInterview Youtube channel](https://www.youtube.com/c/SystemDesignInterview)
-- [Episode 06: Intro to Architecture and Systems Design Interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70&feature=youtu.be)
+
 - https://t.me/systemdesignbymiu
