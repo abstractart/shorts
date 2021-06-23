@@ -9,6 +9,7 @@
 - https://github.com/theanalyst/awesome-distributed-systems
 - https://github.com/resumejob/system-design-algorithms
 - https://gist.github.com/vasanthk/485d1c25737e8e72759f
+- https://github.com/yangshun/tech-interview-handbook/tree/master/experimental/design#specific-topics
 ## Youtube
 - [System design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 - [SystemDesignInterview Youtube channel](https://www.youtube.com/c/SystemDesignInterview)
