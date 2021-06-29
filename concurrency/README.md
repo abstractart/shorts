@@ -8,3 +8,4 @@
 - [The Art of Multiprocessor Programming](https://books.google.ru/books/about/The_Art_of_Multiprocessor_Programming.html?id=7MqcBAAAQBAJ&source=kp_book_description&redir_esc=y)
 - [C++ Concurrency in Action](https://www.manning.com/books/c-plus-plus-concurrency-in-action-second-edition)
 - [Seven Concurrency Models in Seven Weeks](https://pragprog.com/titles/pb7con/seven-concurrency-models-in-seven-weeks/)
+- [Java Concurrency in Practice](https://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601)
