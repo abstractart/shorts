@@ -8,3 +8,4 @@
 
 ## Обучение
 - [Школа Владимира Савенка](https://lk-school.ru/)
+- [Личные финансы здорового человека](https://www.youtube.com/watch?v=ZMvhEXuDREc)
