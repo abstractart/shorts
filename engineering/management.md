@@ -3,6 +3,7 @@
 - [Heuristics for effective management](https://github.com/ksindi/managers-playbook)
 - [Books for people who are or aspire to manage/lead team(s) of software engineers](https://github.com/jesselpalmer/the-engineering-managers-booklist)
 - [A collection of inspiring resources related to engineering management and tech leadership](https://github.com/charlax/engineering-management)
+- [https://github.com/sharovatov/teamlead](https://github.com/sharovatov/teamlead)
 ## Статьи / доклады
 - [Вы уверены, что вы не микроменеджер? / Егор Бугаенко (Zerocracy)](https://www.youtube.com/watch?v=6DrD_FucDK4)
 - [Теперь я - тимлид, но почему мне так плохо? Практические советы / Евгений Кот (Wrike)](https://www.youtube.com/watch?v=7fnY8WVtElY)
