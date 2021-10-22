@@ -18,3 +18,4 @@
 - [A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups](https://github.com/kuchin/awesome-cto)
 ## One-to-one
 - [Нам нужно поговорить…](https://habr.com/ru/company/oleg-bunin/blog/500628/)
+- [Mega list of 1 on 1 meeting questions compiled from a variety to sources](https://github.com/VGraupera/1on1-questions)
