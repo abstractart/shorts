@@ -21,4 +21,5 @@
 ## Книги
 - [Live Work Work Work Die: A Journey into the Savage Heart of Silicon Valley
 by Corey Pein](https://www.goodreads.com/book/show/35684687-live-work-work-work-die)
-
+## Прикладная психология
+- [Когнитивные искажения с примерами для айтишников](https://habr.com/ru/company/karuna/blog/555270/)
