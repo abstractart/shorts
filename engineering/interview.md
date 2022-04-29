@@ -3,6 +3,8 @@
 - [Reverse Interview](https://github.com/viraptor/reverse-interview)
 - [Get a Software Engineering Job - Ultimate Guide](https://github.com/workattech/get-a-software-engineering-job)
 
+
+## Шаблон для отказа
 ```
 Hi ____,
 
@@ -12,3 +14,8 @@ I hope there may be an opportunity for us to work together in the future. Thank 
 Best regards,
 _____
 ```
+
+## Behavioural Interview
+- [Гайд от Валерия Бабушкина](https://t.me/cryptovalerii/216)
+
+
