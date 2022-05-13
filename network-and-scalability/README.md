@@ -1,4 +1,6 @@
 # Highload, Scalability, Performance in Web Applications
+## OS Layer
+- [🚀 Demystifying memory management in modern programming languages](https://deepu.tech/memory-management-in-programming/)
 ## HTTP Layer
 ### Articles
 - [Learning about the HTTP “Connection: keep-alive” header](https://blog.insightdatascience.com/learning-about-the-http-connection-keep-alive-header-7ebe0efa209d)
