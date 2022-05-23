@@ -18,7 +18,7 @@
 - [Grokking System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 - [Distributed Systems lecture series by Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 ## Articles
-- **[ByteByteGo System Design](https://blog.bytebytego.com/archive)**
+- **[ByteByteGo System Design](https://blog.bytebytego.com/archive)** + [Big PDF](https://bytebyte-go.s3.amazonaws.com/ByteByteGo_LinkedIn_PDF.pdf)
 - [Обработка распределенных транзакций в микросервисной архитектуре](https://habr.com/ru/company/piter/blog/522366/)
 - [Как проходят архитектурные секции собеседования в Яндексе: практика дизайна распределённых систем](https://habr.com/ru/company/yandex/blog/564132/)
 - [Hacking the Software Engineer Interview](https://tianpan.co/hacking-the-software-engineer-interview)
