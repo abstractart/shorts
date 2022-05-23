@@ -21,6 +21,7 @@
 - **[ByteByteGo System Design](https://blog.bytebytego.com/archive)**
 - [Обработка распределенных транзакций в микросервисной архитектуре](https://habr.com/ru/company/piter/blog/522366/)
 - [Как проходят архитектурные секции собеседования в Яндексе: практика дизайна распределённых систем](https://habr.com/ru/company/yandex/blog/564132/)
+- [Hacking the Software Engineer Interview](https://tianpan.co/hacking-the-software-engineer-interview)
 ## Books
 - **[Web Scalability for Startup Engineers
 by Artur Ejsmont](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)**
