@@ -20,3 +20,4 @@
 
 # Articles
 - [Faster Python in Docker](https://betterprogramming.pub/faster-python-in-docker-d1a71a9b9917)
+- [Асинхронный python без головной боли](https://habr.com/ru/post/667630/)
