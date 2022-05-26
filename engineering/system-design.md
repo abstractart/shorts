@@ -21,6 +21,7 @@
 - **[ByteByteGo System Design](https://blog.bytebytego.com/archive)** + [Big PDF](https://bytebyte-go.s3.amazonaws.com/ByteByteGo_LinkedIn_PDF.pdf)
 - [Обработка распределенных транзакций в микросервисной архитектуре](https://habr.com/ru/company/piter/blog/522366/)
 - [Как проходят архитектурные секции собеседования в Яндексе: практика дизайна распределённых систем](https://habr.com/ru/company/yandex/blog/564132/)
+- [Проходим L6 интервью на System Design в FAANG](https://habr.com/ru/post/655663/)
 - [Hacking the Software Engineer Interview](https://tianpan.co/hacking-the-software-engineer-interview)
 ## Books
 - **[Web Scalability for Startup Engineers
