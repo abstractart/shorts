@@ -16,6 +16,8 @@
 - [Episode 06: Intro to Architecture and Systems Design Interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70&feature=youtu.be)
 ## Courses
 - [Grokking System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+  - [Web version](https://akshay-iyangar.github.io/system-design/)
+  - [TODO: PDF]()
 - [Distributed Systems lecture series by Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 ## Articles
 - **[ByteByteGo System Design](https://blog.bytebytego.com/archive)** + [Big PDF](https://bytebyte-go.s3.amazonaws.com/ByteByteGo_LinkedIn_PDF.pdf)
