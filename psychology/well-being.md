@@ -1,0 +1,1 @@
+- [70% capacity planning](https://www.heartofbusiness.com/2019/70-capacity-planning/)
