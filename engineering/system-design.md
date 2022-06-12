@@ -5,6 +5,7 @@
   - [RU](https://docs.google.com/document/d/1w3qb6SS1Hycyce5Fg5mVMdzkGYXTRskSf57IoD98ZQw/edit)
 - [System design interview for IT companies
 ](https://github.com/checkcheckzz/system-design-interview)
+- https://github.com/mohsenshafiei/system-design-master-plan
 - https://github.com/binhnguyennus/awesome-scalability
 - https://github.com/theanalyst/awesome-distributed-systems
 - https://github.com/resumejob/system-design-algorithms
