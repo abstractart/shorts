@@ -10,5 +10,6 @@
 ## One-to-one
 - [Нам нужно поговорить…](https://habr.com/ru/company/oleg-bunin/blog/500628/)
 - [Mega list of 1 on 1 meeting questions compiled from a variety to sources](https://github.com/VGraupera/1on1-questions)
+- https://github.com/eugeneyan/1-on-1s
 ## Articles
 - [From Software Engineer to Senior Director of Engineering: Louie Bacaj](https://newsletter.pragmaticengineer.com/p/from-engineer-to-director?s=w)
