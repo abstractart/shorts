@@ -2,7 +2,7 @@
 - [askabout.company](https://askabout.company/)
 - [Reverse Interview](https://github.com/viraptor/reverse-interview)
 - [Get a Software Engineering Job - Ultimate Guide](https://github.com/workattech/get-a-software-engineering-job)
-
+- [An open source list of developer questions to ask prospective employers](https://github.com/Twipped/InterviewThis)
 
 ## Шаблон для отказа
 ```
