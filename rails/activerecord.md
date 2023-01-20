@@ -5,3 +5,4 @@
 - [SQL Injections](https://rails-sqli.org/)
 - [Understanding Locking in Rails ActiveRecord](http://thelazylog.com/understanding-locking-in-rails-activerecord/)
 - https://github.com/gregnavis/active_record_doctor
+- https://scoutapm.com/blog/activerecord-includes-vs-joins-vs-preload-vs-eager_load-when-and-where
