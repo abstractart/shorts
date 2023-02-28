@@ -5,3 +5,4 @@
 - [All Algorithms implemented in Rust](https://github.com/TheAlgorithms/Rust)
 - [The Rust Programming Language](https://github.com/rust-lang/book)
 - [Exercism on Rust](https://exercism.org/tracks/rust)
+- [A bunch of links to blog posts, articles, videos, etc for learning Rust](https://github.com/ctjhoa/rust-learning)
