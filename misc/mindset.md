@@ -7,9 +7,6 @@
 - **[Как правильно задавать вопросы, если ты начинающий айтишник](https://habr.com/ru/post/460221/)**
 ## VC
 - [Ты можешь лучше: как избавиться от вины, что ты недостаточно хорош](https://vc.ru/life/132417-ty-mozhesh-luchshe-kak-izbavitsya-ot-viny-chto-ty-nedostatochno-horosh)
-## Youtube
-### [Dream Catch Me](https://www.youtube.com/channel/UCRA6oTtjvFcg_eNHWru6Ngw)
-
 ## Выгорание
 - [**Я пережила выгорание, или Как остановить хомячка в колесе**](https://habr.com/ru/post/468321/)
 ## Разработка + менеджмент
