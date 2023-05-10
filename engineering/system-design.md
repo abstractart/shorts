@@ -12,6 +12,7 @@
 - https://gist.github.com/vasanthk/485d1c25737e8e72759f
 - https://github.com/karanpratapsingh/system-design
 - https://github.com/jguamie/system-design
+- https://github.com/mixu/distsysbook
 ## Youtube
 - [System design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 - [SystemDesignInterview Youtube channel](https://www.youtube.com/c/SystemDesignInterview)
