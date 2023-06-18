@@ -40,3 +40,4 @@ by Artur Ejsmont](https://www.goodreads.com/book/show/23615147-web-scalability-f
 ## Other
 - [System Design Interesting Reads (Leetcode)](https://docs.google.com/document/d/1iKk6vJbWtI02AllnIEZTrKWQb4dT2QthJdRt05vq6Hw/edit)
 - https://docs.google.com/document/d/1RKzJA7UHj3UKMFxK4Bluy-gB7Sf2fk0mUlCPs76Z07k/edit#
+- https://www.architecturalkatas.com/
