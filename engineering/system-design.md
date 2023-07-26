@@ -19,9 +19,8 @@
 - [Episode 06: Intro to Architecture and Systems Design Interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70&feature=youtu.be)
 ## Courses
 - [Grokking System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
-  - [Web version](https://akshay-iyangar.github.io/system-design/)
-  - [TODO: PDF]()
 - [Distributed Systems lecture series by Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+- [Grokking the Principles and Practices of Advanced System Design](https://www.educative.io/courses/grokking-the-principles-and-practices-of-advanced-system-design)
 ## Articles
 - https://leetcode.com/discuss/career/229177/My-System-Design-Template
 - **[ByteByteGo System Design](https://blog.bytebytego.com/archive)** + [Big PDF](https://bytebyte-go.s3.amazonaws.com/ByteByteGo_LinkedIn_PDF.pdf)
@@ -30,8 +29,8 @@
 - [Проходим L6 интервью на System Design в FAANG](https://habr.com/ru/post/655663/)
 - [Hacking the Software Engineer Interview](https://tianpan.co/hacking-the-software-engineer-interview)
 ## Books
-- **[Web Scalability for Startup Engineers
-by Artur Ejsmont](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)**
+- [Distributed Systems 4th edition (2023)](https://www.distributed-systems.net/index.php/books/ds4/)
+- **[Web Scalability for Startup Engineers by Artur Ejsmont](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)**
 - **[Systems Performance: Enterprise and the Cloud](https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098)**
 - [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/)
 - [Designing Data-Intensive Applications](https://dataintensive.net/)
