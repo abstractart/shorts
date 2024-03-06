@@ -28,6 +28,10 @@
 - [Как проходят архитектурные секции собеседования в Яндексе: практика дизайна распределённых систем](https://habr.com/ru/company/yandex/blog/564132/)
 - [Проходим L6 интервью на System Design в FAANG](https://habr.com/ru/post/655663/)
 - [Hacking the Software Engineer Interview](https://tianpan.co/hacking-the-software-engineer-interview)
+
+### Idempotency
+- https://habr.com/ru/companies/yandex/articles/442762/
+- https://www.strv.com/blog/database-transactions-lost-updates-idempotency-engineering
 ## Books
 - [Distributed Systems 4th edition (2023)](https://www.distributed-systems.net/index.php/books/ds4/)
 - **[Web Scalability for Startup Engineers by Artur Ejsmont](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)**
