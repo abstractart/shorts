@@ -32,6 +32,9 @@
 ### Idempotency
 - https://habr.com/ru/companies/yandex/articles/442762/
 - https://www.strv.com/blog/database-transactions-lost-updates-idempotency-engineering
+- https://amplitude.engineering/dedupe-events-at-scale-f9e416e46ca9
+### Exactly once
+- https://segment.com/blog/exactly-once-delivery/
 ## Books
 - [Distributed Systems 4th edition (2023)](https://www.distributed-systems.net/index.php/books/ds4/)
 - **[Web Scalability for Startup Engineers by Artur Ejsmont](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)**
