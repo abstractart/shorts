@@ -27,7 +27,7 @@
 - [Обработка распределенных транзакций в микросервисной архитектуре](https://habr.com/ru/company/piter/blog/522366/)
 - [Как проходят архитектурные секции собеседования в Яндексе: практика дизайна распределённых систем](https://habr.com/ru/company/yandex/blog/564132/)
 - [Проходим L6 интервью на System Design в FAANG](https://habr.com/ru/post/655663/)
-- [Hacking the Software Engineer Interview](https://tianpan.co/hacking-the-software-engineer-interview)
+- [Hacking the Software Engineer Interview](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)
 
 ### Idempotency
 - https://habr.com/ru/companies/yandex/articles/442762/
