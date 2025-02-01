@@ -36,13 +36,13 @@
 ### Exactly once
 - https://segment.com/blog/exactly-once-delivery/
 ## Books
-- [Distributed Systems 4th edition (2023)](https://www.distributed-systems.net/index.php/books/ds4/)
+- **[Distributed Systems 4th edition (2023)](https://www.distributed-systems.net/index.php/books/ds4/)**
 - **[Web Scalability for Startup Engineers by Artur Ejsmont](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)**
 - **[Systems Performance: Enterprise and the Cloud](https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098)**
-- [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/)
+- **[Distributed Systems for practitioners](https://leanpub.com/distributed-systems-for-practitioners#:~:text=Learn%20the%20basic%20principles%20that,the%20space%20of%20distributed%20systems.)**
+- [Designing Distributed Systems](https://info.microsoft.com/rs/157-GQE-382/images/EN-CNTNT-eBook-DesigningDistributedSystems.pdf)
 - [Designing Data-Intensive Applications](https://dataintensive.net/)
 - [System Design Interview – An Insider's Guide](https://www.amazon.com/System-Design-Interview-Insiders-Guide-ebook/dp/B08B3FWYBX)
-- **[Distributed Systems for practitioners](https://leanpub.com/distributed-systems-for-practitioners#:~:text=Learn%20the%20basic%20principles%20that,the%20space%20of%20distributed%20systems.)**
 ## Other
 - [System Design Interesting Reads (Leetcode)](https://docs.google.com/document/d/1iKk6vJbWtI02AllnIEZTrKWQb4dT2QthJdRt05vq6Hw/edit)
 - https://docs.google.com/document/d/1RKzJA7UHj3UKMFxK4Bluy-gB7Sf2fk0mUlCPs76Z07k/edit#
