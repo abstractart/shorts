@@ -12,5 +12,8 @@
 
 # Comparsion
 - [Prometheus vs. VictoriaMetrics (VM)](https://last9.io/blog/prometheus-vs-victoriametrics/)
+
+# Examples
+- [Kubernetes deployment strategies explained](https://github.com/ContainerSolutions/k8s-deployment-strategies)
 # Further reading
 - [OpenMetrics specs](https://github.com/prometheus/OpenMetrics/blob/main/specification/OpenMetrics.md)
