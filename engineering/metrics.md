@@ -5,6 +5,7 @@
 
 # PromQL
 - [PromQL Cheat Sheet](https://promlabs.com/promql-cheat-sheet/)
+
 # Tooling
 - [Exporter for machine metrics](https://github.com/prometheus/node_exporter)
 - [Exporters](https://github.com/prometheus)
@@ -15,5 +16,6 @@
 
 # Examples
 - [Kubernetes deployment strategies explained](https://github.com/ContainerSolutions/k8s-deployment-strategies)
+
 # Further reading
 - [OpenMetrics specs](https://github.com/prometheus/OpenMetrics/blob/main/specification/OpenMetrics.md)
