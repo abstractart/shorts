@@ -3,7 +3,8 @@
 # Starting point
 - [Человеческим языком про метрики 1: Потерянное введение](https://habr.com/ru/companies/tochka/articles/683608/)
 
-
+# PromQL
+- [PromQL Cheat Sheet](https://promlabs.com/promql-cheat-sheet/)
 # Tooling
 - [Exporter for machine metrics](https://github.com/prometheus/node_exporter)
 - [Exporters](https://github.com/prometheus)
