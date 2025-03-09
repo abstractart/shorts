@@ -2,3 +2,7 @@
 
 # Starting point
 - [Человеческим языком про метрики 1: Потерянное введение](https://habr.com/ru/companies/tochka/articles/683608/)
+
+
+# Further reading
+- [OpenMetrics specs](https://github.com/prometheus/OpenMetrics/blob/main/specification/OpenMetrics.md)
