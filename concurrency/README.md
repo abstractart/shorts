@@ -9,3 +9,7 @@
 - [C++ Concurrency in Action](https://www.manning.com/books/c-plus-plus-concurrency-in-action-second-edition)
 - [Seven Concurrency Models in Seven Weeks](https://pragprog.com/titles/pb7con/seven-concurrency-models-in-seven-weeks/)
 - [Java Concurrency in Practice](https://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601)
+## Hardware
+- https://peeterjoot.com/archives/math2009/atomic.pdf
+- https://www.kernel.org/doc/html/latest/process/volatile-considered-harmful.html
+- https://www.cs.umd.edu/~pugh/java/memoryModel/DoubleCheckedLocking.html
