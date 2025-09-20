@@ -1,1 +1,2 @@
 - https://faun.pub/be-wary-of-cassandra-anti-patterns-fca1afcc54df
+- https://live-datastaxd8.pantheonsite.io/sites/default/files/content/whitepaper/files/2019-09/DataStax-WP-Apache-Cassandra-Architecture.pdf
