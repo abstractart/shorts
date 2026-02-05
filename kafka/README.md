@@ -23,3 +23,4 @@
 - **[Cut out Kafka by writing directly to S3 and bulk loading from S3 directory (opti... | Hacker News](https://news.ycombinator.com/item?id=12731631)**  
 - **[Stop the world в Kafka или спасти рядового consumer :) / Хабр](https://habr.com/ru/companies/datanomica/articles/743112/)**  
 - **[The Unofficial Kafka Rebalance How-To](https://tomlee.co/2019/03/the-unofficial-kafka-rebalance-how-to/)**
+- https://blog.allegro.tech/2024/03/kafka-performance-analysis.html
