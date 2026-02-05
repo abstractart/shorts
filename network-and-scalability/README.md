@@ -16,6 +16,7 @@
 ## Golang
 - [Go: Goroutine, OS Thread and CPU Management](https://medium.com/a-journey-with-go/go-goroutine-os-thread-and-cpu-management-2f5a5eaf518a)
 - [Can you detect how many threads a given number of goroutines will create?](http://stackoverflow.com/questions/1714136/can-you-detect-how-many-threads-a-given-number-of-goroutines-will-create)
+- [The complete guide to Go net/http timeouts](https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/)
 ## Ruby
 - [Ruby HTTPClient: How to use persistent connections?](https://stackoverflow.com/questions/15976775/ruby-httpclient-how-to-use-persistent-connections)
 - [Sending TCP keepalives in Ruby - makandra dev](https://makandracards.com/makandra/36345-sending-tcp-keepalives-in-ruby)
